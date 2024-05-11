@@ -10,8 +10,17 @@ body {
     height: 100%;
 }
 
-#nav-bar {
+#navbar {
     width: 1332px;
     height: 104px;
     flex-shrink: 0;
+    margin: 59px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+ul {
+ list-style: none;
 }
